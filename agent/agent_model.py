@@ -1,0 +1,1 @@
+from base_model import cpu_count,cpu_person
